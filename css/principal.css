@@ -16,8 +16,6 @@ border-radius: 20px;
 padding-left: 5px;
 margin-top: 20px;
 border-style: initial;
-background-color: rgb(0, 0, 0);
-
 }
 
 .cabeca img {
@@ -45,8 +43,7 @@ font-family:monospace;
 
 color: azure;
 font-family:monospace;
-padding-left: 20px;
-
+text-align: center;
 }
 
 .lista a {
@@ -135,7 +132,6 @@ padding-left: 28px;
 padding-bottom: 40px;
 
 }
-
 
 
 
